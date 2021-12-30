@@ -1,6 +1,6 @@
 # My-Gallery-MockUp
 
-<h1 align="center">Team Page Challenge</h1>
+<h1 align="center">My Gallery Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank" rel="noopener noreferrer">Devchallenges.io</a>.
